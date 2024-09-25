@@ -1,0 +1,1 @@
+Hi this is a full fach webPage with all necessary Dom functionality and also this is a practice assingement of my course so the html part is pre build and as well as the css but the javascript was compleately build by me.
